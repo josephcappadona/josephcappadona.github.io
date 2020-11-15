@@ -22,7 +22,6 @@ minima:
   skin: dark
 
 plugins:
-  - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
   - jekyll-github-metadata
