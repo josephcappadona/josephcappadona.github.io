@@ -132,7 +132,7 @@
 }
 
 .feed-subscribe .svg-icon {
-  padding: 0 0 0 0;
+  padding: 5px 5px 2px 0
 }
 
 .contact-list,
@@ -340,4 +340,3 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
-

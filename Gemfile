@@ -9,7 +9,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 # gem "jekyll", "~> 4.0.0"
 
-gem "minima"
+gem "minima", :git => "https://github.com/jekyll/minima.git", :branch => "master"
 
 # To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
