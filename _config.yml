@@ -10,7 +10,9 @@ title: My Blog
 description: An assortment of miscellaneous musings.
 github_username: josephcappadona
 
-email: josephcappadona27@gmail.com
+author:
+  name: Joseph Cappadona
+  email: josephcappadona27@gmail.com
 twitter_username: seaghost27
 
 use_math: true
