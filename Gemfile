@@ -9,7 +9,8 @@ source "https://rubygems.org"
 # Happy Jekylling!
 # gem "jekyll", "~> 4.0.0"
 
-gem 'jekyll-theme-midnight', '~> 0.1.1'
+gem "minima", "~> 2.5"
+
 # To upgrade, run `bundle update github-pages`.
 gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
