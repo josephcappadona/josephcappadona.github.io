@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: My Blog
+title: JC
 description: An assortment of miscellaneous musings.
-github_username: josephcappadona
-
 author:
   name: Joseph Cappadona
   email: josephcappadona27@gmail.com
+  
+github_username: josephcappadona
 twitter_username: seaghost27
 
 use_math: true
