@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: JC
-description: An assortment of miscellaneous musings.
+description: Miscellaneous musings of my mind.
 author:
   name: Joseph Cappadona
   email: josephcappadona27@gmail.com
@@ -20,10 +20,11 @@ use_math: true
 google_analytics:
 
 minima:
-  skin: dark
+  skin: classic
 theme: minima
 
 plugins:
+  - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
   - jekyll-github-metadata
