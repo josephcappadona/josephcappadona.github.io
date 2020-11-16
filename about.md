@@ -4,13 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hello! My name is Joe and I'm an aspiring AI research engineer.
-
-My research interests include:
-* Building general AI systems using principles from psychology and cognitive science
-* Integrating statistical and symbolic AI into hybrid systems
-* Grounding natural language generation in commonsense and domain-specific knowledge
-
 Outside of work, I really enjoy playing games. I love to compete and have traveled around the country to compete in [poker](https://pokerdb.thehendonmob.com/player.php?a=r&n=601783), [chess](https://lichess.org/@/seaghost27), and [Super Smash Bros Melee](https://www.youtube.com/watch?v=0VzNTRieZ88). Here are some pictures from my travels:
 
 <div>
