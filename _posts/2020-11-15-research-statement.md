@@ -1,5 +1,8 @@
-# Research Statement
+---
+layout: post
+title: "Research Statement"
 
+---
 
 Recent developments in the field of artificial intelligence (AI) have made me extremely excited about where the field is heading. Over the past few years, GPT-3 and related deep transformer models have enabled state-of-the-art results across natural language processing and computer vision. These transformer models perform impressively on many tasks, such as dialogue [1], object detection [2], code completion [3], and theorem proving [4]. However, because the models are not grounded in any formal semantic representation, they often generate nonsensical output [5], showing that there are likely limitations to the types of reasoning that will emerge, especially as we reach bottlenecks on quantity and types of training data. Therefore, a natural next step is to augment these models with some form of commonsense reasoning and knowledge. How exactly to do this is unclear, but there are many approaches that have shown promising results, including multimodal perception [6, 7, 8], grounded language understanding [8, 9], automated knowledge base construction [10, 11], and interactive task learning [12].
 
