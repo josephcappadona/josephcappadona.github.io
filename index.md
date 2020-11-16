@@ -20,6 +20,6 @@ layout: home
     </div>
   </div>
   <div style="margin: 10px;">
-    Below you'll find an assortment of short essays I've written as a way to organize and elucidate my thoughts on artificial intelligence. I was initially inspired to write them because I felt that when it came to my grad school applications, a single 500 word personal statement was woefully insufficient to fully communicate what I wanted to about myself, my expertise, and my goals. I hope that as time goes on I will continue to write more on a variety of topics, technical and otherwise.
+    Below you'll find an assortment of short essays I've written as a way to organize and elucidate my thoughts on artificial intelligence.
   </div>
 </div>
