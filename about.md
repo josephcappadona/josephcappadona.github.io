@@ -14,8 +14,17 @@ My research interests include:
 Outside of work, I really enjoy playing games. I love to compete and have traveled around the country to compete in [poker](https://pokerdb.thehendonmob.com/player.php?a=r&n=601783), [chess](https://lichess.org/@/seaghost27), and [Super Smash Bros Melee](https://www.youtube.com/watch?v=0VzNTRieZ88). Here are some pictures from my travels:
 
 
-![vegas](/assets/img/vegas.jpg){: style="max-height: 300px; font-size: 10px;"} | ![hawaii](/assets/img/hawaii.jpg){: style="max-height: 300px; font-size: 10px;"} | ![genesis](/assets/img/genesis.jpeg){: style="max-height: 300px; font-size: 10px;"}
+{:refdef: style="font-size: 10px;"}
+![vegas](/assets/img/vegas.jpg){: style="max-height: 100px;"}
+49th World Series of Poker \| Las Vegas, 2018
+{: refdef}
 
-49th World Series of Poker \| Las Vegas, 2018 | Diamond Head \| Hawaii, 2019 | GENESIS 6 \| Oakland, 2019
+{:refdef: style="font-size: 10px;"}
+![hawaii](/assets/img/hawaii.jpg){: style="max-height: 100px;"}
+Diamond Head \| Hawaii, 2019
+{: refdef}
 
-
+{:refdef: style="font-size: 10px;"}
+![genesis](/assets/img/genesis.jpeg){: style="max-height: 100px;"}
+GENESIS 6 \| Oakland, 2019
+{: refdef}
