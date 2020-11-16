@@ -3,7 +3,7 @@ layout: home
 ---
 
 {:refdef: style="text-align: center;"}
-![me](assets/headshot.png)
+![me](/assets/headshot.jpeg)
 {: refdef}
 
 Welcome to my blog!
