@@ -29,7 +29,7 @@ Diamond Head | Hawaii, 2019
 
 
 {:refdef: style=""}
-![me](/assets/img/genesis.jpg){: style="max-height: 400px;"}
+![me](/assets/img/genesis.jpeg){: style="max-height: 400px;"}
 
 GENESIS 6 | Oakland, 2019
 {: refdef}
