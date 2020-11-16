@@ -23,22 +23,9 @@ Outside of work, I really enjoy playing games. I love to compete and have travel
     <img src="/assets/img/hawaii.jpg" style="max-height: 250px;"/>
     <div>Diamond Head | Hawaii, 2019</div>
   </div>
+  
+  <div style="display: block; margin: 25px;">
+    <img src="/assets/img/genesis.jpeg" style="max-height: 250px;"/>
+    <div>GENESIS 6 | Oakland, 2019</div>
+  </div>
 </div>
-
-{:refdef: style="font-size: 10px;"}
-![vegas](/assets/img/vegas.jpg){: style="max-height: 100px;"}
-
-49th World Series of Poker \| Las Vegas, 2018
-{: refdef}
-
-{:refdef: style="font-size: 10px;"}
-![hawaii](/assets/img/hawaii.jpg){: style="max-height: 100px;"}
-
-Diamond Head \| Hawaii, 2019
-{: refdef}
-
-{:refdef: style="font-size: 10px;"}
-![genesis](/assets/img/genesis.jpeg){: style="max-height: 100px;"}
-
-GENESIS 6 \| Oakland, 2019
-{: refdef}
