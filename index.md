@@ -8,14 +8,14 @@ layout: home
   </div>
   <div style="margin: 10px 0 10px 10px; white-space: nowrap;">
     <p>Hello! My name is Joe and I'm an aspiring AI research engineer.</p>
-    <p>
-      Some of my research interests include:
-      <ul>
+    <div>
+      <p>Some of my research interests include:</p>
+      <ul style="margin-bottom: 0px;">
         <li>Building AI systems using principles from psychology and cognitive science</li>
         <li>Integrating statistical and symbolic methods into general AI systems</li>
         <li>Grounding natural language generation in commonsense/domain knowledge</li>
       </ul>
-    </p>
+    </div>
   </div>
 </div>
 
