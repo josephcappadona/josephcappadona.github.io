@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<div style="display: flex;">
+<div style="display: flex; margin-bottom: 50px;">
   <div style="width: 175px; height: 175px; margin: 10px; flex-shrink: 0;">
     <img src="/assets/img/headshot.jpeg" style="border-radius: 5px;" />
   </div>
