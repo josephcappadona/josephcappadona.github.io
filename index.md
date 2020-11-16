@@ -2,8 +2,8 @@
 layout: home
 ---
 
-<div>
-  <div style="display: flex; margin-bottom: 40px;">
+<div style="margin-bottom: 40px;">
+  <div style="display: flex;">
     <div style="width: 180px; height: 180px; margin: 10px; flex-shrink: 0;">
       <img src="/assets/img/headshot.jpeg" style="border-radius: 5px;" />
     </div>
