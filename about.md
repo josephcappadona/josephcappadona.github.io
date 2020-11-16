@@ -1,18 +1,31 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello! My name is Joe and I'm a software engineer who aspires to build general AI systems.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My research interests include:
+* Building general AI systems using principles from psychology and cognitive science
+* Integrating statistical and symbolic AI into hybrid systems
+* Grounding natural language generation in commonsense and domain-specific knowledge
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Outside of work, I really enjoy playing games. I love to compete and have traveled around the country to compete in [poker](https://pokerdb.thehendonmob.com/player.php?a=r&n=601783), [chess](https://lichess.org/@/seaghost27), and [Super Smash Bros Melee](https://www.youtube.com/watch?v=0VzNTRieZ88). Here are some pictures from my travels:
 
-
-[jekyll-organization]: https://github.com/jekyll
+<div style="display: flex; font-size: 12px;">
+  <div style="display: block; margin: 25px;">
+    <img src="/assets/img/vegas.jpg" style="max-height: 250px;"/>
+    <div>49th World Series of Poker | Las Vegas, 2018</div>
+  </div>
+  
+  <div style="display: block; margin: 25px;">
+    <img src="/assets/img/hawaii.jpg" style="max-height: 250px;"/>
+    <div>Diamond Head | Hawaii, 2019</div>
+  </div>
+  
+  <div style="display: block; margin: 25px;">
+    <img src="/assets/img/genesis.jpeg" style="max-height: 250px;"/>
+    <div>GENESIS 6 | Oakland, 2019</div>
+  </div>
+</div>
