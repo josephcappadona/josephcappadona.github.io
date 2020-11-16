@@ -2,11 +2,11 @@
 layout: home
 ---
 
-<div style="display: flex; margin-bottom: 50px;">
-  <div style="width: 250px; height: 250px; margin: 25px;">
-    <img src="/assets/img/headshot.jpeg" style="width: 100%; height: 100%; border-radius: 10px;" />
+<div style="display: flex;">
+  <div style="width: 200px; height: 200px; margin: 15px; flex-shrink: 0;">
+    <img src="/assets/img/headshot.jpeg" style="border-radius: 8px;" />
   </div>
-  <div style="margin: 25px;">
+  <div style="margin: 15px;">
     <p>Hello! My name is Joe and I'm an aspiring AI research engineer.</p>
     <p>
       Some of my research interests include:
