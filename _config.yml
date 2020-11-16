@@ -20,7 +20,7 @@ use_math: true
 google_analytics:
 
 minima:
-  skin: dark
+  skin: solarized
 theme: minima
 
 plugins:
