@@ -8,14 +8,15 @@ layout: home
   </div>
   <div style="margin: auto 0 auto 10px; white-space: nowrap;">
     <p>Hello! My name is Joe and I'm an AI research engineer.</p>
-    <div>
+    <p>
       <p>Some of my research interests include:</p>
       <ul style="margin-bottom: 0px;">
         <li>Building AI systems using principles from psychology and cognitive science</li>
         <li>Integrating statistical and symbolic methods into general AI systems</li>
         <li>Grounding natural language generation in commonsense/domain knowledge</li>
       </ul>
-    </div>
+    </p>
+    <div>Below you'll find an assortment of short essays I've written as a way to elucidate my thoughts on artificial intelligence.</div>
   </div>
 </div>
 
