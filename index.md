@@ -2,12 +2,12 @@
 layout: home
 ---
 
-<div style="display: flex; margin-bottom: 50px;">
+<div style="display: flex; margin-bottom: 40px;">
   <div style="width: 175px; height: 175px; margin: 10px; flex-shrink: 0;">
     <img src="/assets/img/headshot.jpeg" style="border-radius: 5px;" />
   </div>
-  <div style="margin: 10px 0 10px 10px; white-space: nowrap;">
-    <p>Hello! My name is Joe and I'm an aspiring AI research engineer.</p>
+  <div style="margin: auto 0 auto 10px; white-space: nowrap;">
+    <p>Hello! My name is Joe and I'm an AI research engineer.</p>
     <div>
       <p>Some of my research interests include:</p>
       <ul style="margin-bottom: 0px;">
