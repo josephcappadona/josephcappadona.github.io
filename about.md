@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-Hello! My name is Joe and I'm a software engineer who aspires to build general AI systems.
+Hello! My name is Joe and I'm an aspiring AI research engineer.
 
 My research interests include:
 * Building general AI systems using principles from psychology and cognitive science
