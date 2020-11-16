@@ -15,21 +15,21 @@ Outside of work, I really enjoy playing games. I love to compete and have travel
 
 
 {:refdef: style=""}
-![me](/assets/img/vegas.jpg){: style="max-height: 400px;"}
+![me](/assets/img/vegas.jpg){: style="max-height: 300px; font-size: 10px;"}
 
 49th World Series of Poker \| Las Vegas, 2018
 {: refdef}
 
 
 {:refdef: style=""}
-![me](/assets/img/hawaii.jpg){: style="max-height: 400px;"}
+![me](/assets/img/hawaii.jpg){: style="max-height: 300px; font-size: 10px;"}
 
 Diamond Head \| Hawaii, 2019
 {: refdef}
 
 
 {:refdef: style=""}
-![me](/assets/img/genesis.jpeg){: style="max-height: 400px;"}
+![me](/assets/img/genesis.jpeg){: style="max-height: 300px; font-size: 10px;"}
 
 GENESIS 6 \| Oakland, 2019
 {: refdef}
