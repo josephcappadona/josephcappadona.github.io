@@ -20,6 +20,6 @@ layout: home
     </div>
   </div>
   <div style="margin: 10px;">
-    Below you'll find an assortment of short essays I've written as a way to organize and elucidate my thoughts on artificial intelligence.
+    Below you'll find an assortment of short essays I've written as a way to organize and elucidate my thoughts on artificial intelligence. I hope they provide some insight into my ideas and motivations.
   </div>
 </div>
