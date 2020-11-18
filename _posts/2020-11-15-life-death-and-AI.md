@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Life, Death, and Artificial Intelligence"
+
+---
+
 I’ve thought a lot about why I want to study artificial intelligence. Looking back on my experiences in high school, it makes sense that I would wind up pursuing computer science; I’ve always loved mathematics and computers, and experiences with various classes and clubs introduced me to the power and beauty of software engineering. But why am I drawn to AI rather than other subfields like distributed systems or programming language design?
 
 Terror management theory suggests that a fear of death is at the core of our beliefs and behavior, both individually and collectively as a species. For many people, the finiteness of life is subconsciously repressed, but for me, it’s something I think about often. Ever since the sudden death of my mom in 2016, I’ve been painfully aware that life is short and can end without warning. To say that that experience devastated me would be an understatement. In the following year, my health suffered, my grades took a hit, and I struggled to find purpose. The track I was on, to graduate and work as a software engineer, no longer seemed so appealing, and while my peers earned internships at top tech companies, I took time off to spend time with family and introspect.
