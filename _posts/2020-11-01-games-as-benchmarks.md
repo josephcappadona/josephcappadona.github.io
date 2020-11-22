@@ -21,7 +21,7 @@ The use of text-based adventure games has also proved a promising means of testi
 
 Other work has explored multi-agent environments [24, 25] and environments mimicking the real-world [26, 27], and it's safe to assume that as time goes on, more complex, dynamic environments will continue to be explored.
 
-These works show that virtual environments are an effective means of testing various kinds of perception, inference and action, from commonsense physics to open-domain dialogue. And while these subproblems might be more tractable when studied in isolation, as long as the end goal is to integrate these abilities into a single system, the use of virtual environments as testing mechanism is not going anywhere.
+These works show that virtual environments are an effective means of testing various kinds of perception, inference and action, from commonsense physics to open-domain dialogue. And while these subproblems might be more tractable when studied in isolation, as long as the end goal is to integrate these abilities into a single system, the use of virtual environments as a testing mechanism is not going anywhere.
 
 
 ### References
