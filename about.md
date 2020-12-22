@@ -36,3 +36,5 @@ Outside of work, I love to play games of all varieties (card, board, video, etc.
   </div>
 </div>
 
+I've contributed significantly to the [UPenn Smash Bros. Youtube channel](https://www.youtube.com/channel/UCphfCejF0ZuxSMZsUYNIxqQ), in particular with VODs from the [L@DU tournament series](https://smash.gg/tournament/look-at-dat-upsmash-underground-21/details). I enjoy hosting events and plan to continue to host events of all kinds (not just SSB related) in the future once the world returns to normalcy.
+
