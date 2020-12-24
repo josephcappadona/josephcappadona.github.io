@@ -31,5 +31,5 @@ YouTube:
 
 
 Blogs:
-* [Gwern Branwen](https://gwern.net) (AI/ML, Psychology, Philosophy, Cryptocurrency, Fiction, and more)
+* [Gwern Branwen](https://gwern.net#ai) (AI/ML)
 * [Sean Carroll](https://www.preposterousuniverse.com/blog/) (Physics, Philosophy)
