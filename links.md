@@ -15,7 +15,7 @@ Podcasts:
 
 
 YouTube:
-* [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA) (AIL, STEM, Philosophy)
+* [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA) (AI, STEM, Philosophy)
 * [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) (ML)
 * [exurb1a](https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg) (Creative/Science Fiction)
 * [Agadmator](https://www.youtube.com/channel/UCL5YbN5WLFD8dLIegT5QAbA) (Chess)
