@@ -16,6 +16,7 @@ minima:
 
 header_pages:
  - about.md
+ - links.md
 
 theme: minima
 plugins:
