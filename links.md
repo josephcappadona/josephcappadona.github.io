@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Links
-permalink: /links/
+title: External Links
+permalink: /external-links/
 ---
 
 The following are some of my favorite podcasts, channels, and hubs for content:
