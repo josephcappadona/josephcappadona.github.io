@@ -43,6 +43,7 @@ Extract objects (person, bottle, etc.) from YouTube videos and train ResNet VAEs
 
 iOS application to connect to and control Sphero Droids
   * Source Code & Screenshots \| [GitHub](https://github.com/josephcappadona/sphero-r2d2-iOS)
+  
 Python wrapper to connect to and control Sphero Droids
   * Source Code \| [GitHub](https://github.com/josephcappadona/sphero-project)
   * R2D2 + A* \| [YouTube](https://www.youtube.com/watch?v=qjIhtkhbPT8)
