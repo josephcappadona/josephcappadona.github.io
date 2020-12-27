@@ -9,19 +9,22 @@ Scrape multimodal, aligned Encyclopedia data
   * Data Scraping (BS4) \| [GitHub](https://github.com/josephcappadona/kids_britannica/tree/dev/kids_britannica)
   * Data Usage \| [Colab](https://colab.research.google.com/drive/1r1xf4Xnk2Vej_l6GxiqFkxg89YFBqYQY)
   * Using Data for [*Adversarial Decomposition of Text Representations*](https://arxiv.org/abs/1808.09042) \| [GitHub](https://github.com/josephcappadona/adversarial_decomposition)
-  
+
+<br></br>
   
 **[j-archive.com](https://j-archive.com) Data (Python)**
 Scrape Jeopardy data to create a QA dataset
   * Data Scraping (BS4) \| [Colab](https://colab.research.google.com/drive/1Md2zFZivl3QgXmuUNMjIT2mDLgB158gY)
   * Data Usage \| [Colab](https://colab.research.google.com/drive/1X99ypJ3E_6jrc76I5DnMKrjgkmezEGvv)
 
+<br></br>
 
 **[slippi.gg/tournament](https://slippi.gg/tournaments) Data (Python)**
 Scrape SSBM tournament data to use as RL training data
   * Data Scraping (Selenium, BS4) \| [Colab](https://colab.research.google.com/drive/1Os4pK85UWkOmBO-7Mwq6cF9geWYEglSZ)
   * Offline Actor-Critic Training (PyTorch) \| [Colab](https://colab.research.google.com/drive/1cOEV2DYb86r2oujalaSt-c68CpnzHRjZ)
 
+<br></br>
 
 **Extracting Objects from YouTube Videos (Python)**
 Extract objects (person, bottle, etc.) from YouTube videos and train ResNet VAEs on the classes
