@@ -50,7 +50,7 @@ Python wrapper to connect to and control Sphero Droids
 
 <br>
 
-#### **[vods.co](https://vods.co) Scraper**
+#### **[``vods.co``](https://vods.co) Scraper**
 
 Command line application to download SSBM tournament VODs
   * Source Code \| [GitHub](https://github.com/josephcappadona/vods-scraper)
