@@ -6,7 +6,7 @@ permalink: /projects/
 
 <br>
 
-**[kids.britannica.com](https://kids.britannica.com) Data (Python)**
+#### **[kids.britannica.com](https://kids.britannica.com) Data (Python)**
 
 Scrape multimodal, aligned Encyclopedia data
 
@@ -16,7 +16,7 @@ Scrape multimodal, aligned Encyclopedia data
 
 <br>
   
-**[j-archive.com](https://j-archive.com) Data (Python)**
+#### **[j-archive.com](https://j-archive.com) Data (Python)**
 
 Scrape Jeopardy data to create a QA dataset
   * Data Scraping (BS4) \| [Colab](https://colab.research.google.com/drive/1Md2zFZivl3QgXmuUNMjIT2mDLgB158gY)
@@ -24,7 +24,7 @@ Scrape Jeopardy data to create a QA dataset
 
 <br>
 
-**[slippi.gg/tournament](https://slippi.gg/tournaments) Data (Python)**
+#### **[slippi.gg/tournament](https://slippi.gg/tournaments) Data (Python)**
 
 Scrape SSBM tournament data to use as RL training data
   * Data Scraping (Selenium, BS4) \| [Colab](https://colab.research.google.com/drive/1Os4pK85UWkOmBO-7Mwq6cF9geWYEglSZ)
@@ -32,14 +32,14 @@ Scrape SSBM tournament data to use as RL training data
 
 <br>
 
-**Extracting Objects from YouTube Videos (Python)**
+#### **Extracting Objects from YouTube Videos (Python)**
 
 Extract objects (person, bottle, etc.) from YouTube videos and train ResNet VAEs on the classes
   * Data Download, DETR Object Detection, ResNet VAE Training \| [Colab](https://github.com/josephcappadona/machine-learning-notebooks/blob/main/vision/%5BPyTorch%5D%20YouTube%20ResNetVAE.ipynb)
 
 <br>
   
-**Sphero Droid Applications (Swift, Python)**
+#### **Sphero Droid Applications (Swift, Python)**
 
 iOS application to connect to and control Sphero Droids
   * Source Code & Screenshots \| [GitHub](https://github.com/josephcappadona/sphero-r2d2-iOS)
@@ -49,14 +49,14 @@ Python wrapper to connect to and control Sphero Droids
 
 <br>
 
-**[vods.co](https://vods.co) Scraper**
+#### **[vods.co](https://vods.co) Scraper**
 
 Command line application to download SSBM tournament VODs
   * Source Code \| [GitHub](https://github.com/josephcappadona/vods-scraper)
 
 <br>
 
-**Opinion Mining Amazon Reviews**
+#### **Opinion Mining Amazon Reviews**
 
 Aggregating opinions over product features
   * Source Code \| [GitHub](https://github.com/josephcappadona/opinion-mining-amazon-reviews)
@@ -65,7 +65,7 @@ Aggregating opinions over product features
 
 <br>
 
-**multitetris (Rust)**
+#### **multitetris (Rust)**
 
 Multiplayer tetris using websockets and OpenGL
   * Source Code \| [https://github.com/josephcappadona/multitetris]
@@ -73,7 +73,7 @@ Multiplayer tetris using websockets and OpenGL
 
 <br>
 
-**Foodstruck (Objective C)**
+#### **Foodstruck (Objective C)**
 
 iOS Application for ordering food from food trucks
   * Source Code \| [GitHub](https://github.com/cerenali/Foodstruck)
@@ -81,7 +81,7 @@ iOS Application for ordering food from food trucks
  
 <br>
   
-**Tweet Sentiment Analyzer (Python)**
+#### **Tweet Sentiment Analyzer (Python)**
 
 Track tweet sentiment for keywords in real time
 * Source Code \| [GitHub](https://github.com/ryin1/twitter-sentiment)
