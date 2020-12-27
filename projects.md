@@ -49,7 +49,7 @@ Aggregating opinions over product features
 
 
 **multitetris (Rust)**
-Multiplayer tetris using sockets
+Multiplayer tetris using websockets and OpenGL
   * Source Code \| [https://github.com/josephcappadona/multitetris]
   * Final Presentation \| [GDrive](https://docs.google.com/presentation/d/1XXDWQEsQC_ybpI_j3CtzlZwtevSpchEtIelRVSSNbDE)
 
