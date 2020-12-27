@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-## Personal Projects
-
 ### [kids.britannica.com](https://kids.britannica.com) Data (Python)
 Scrape multimodal, aligned Encyclopedia data
   * Data Scraping (BS4) | [GitHub](https://github.com/josephcappadona/kids_britannica/tree/dev/kids_britannica)
