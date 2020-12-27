@@ -1,13 +1,8 @@
 ---
 layout: page
-title: Notebooks
-permalink: /notebooks/
+title: Projects
+permalink: /projects/
 ---
-
-## Ideas
-
-* Unsupervised Learning on YouTube and/or Twitch Data a la VideoBERT
-* Automated Multimodal Knowledge Base Construction on Wikipedia, Wikidata, Wikimedia, etc
 
 ## Personal Projects
 
@@ -62,7 +57,4 @@ iOS Application for ordering food from food trucks
 Track tweet sentiment for keywords in real time
 * Source Code | [GitHub](https://github.com/ryin1/twitter-sentiment)
 * Sample Output Graph | [GDrive](https://drive.google.com/file/d/10jHCvpG1HVmzvRtU11aTGmyfQTjIiDZc)
-  
-## Links to Notebook Repositories
-  * PyTorch Implementations of CNN, GAN, GNN, AE, and more | [github/rasbt/deeplearning-models/pytorch_ipynb](https://github.com/rasbt/deeplearning-models/tree/master/pytorch_ipynb)
-  * Machine Learning Art Colabs | [github/dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs)
+
