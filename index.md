@@ -13,8 +13,9 @@ layout: home
         <p>Some of my research interests include:</p>
         <ul style="margin-bottom: 0px; white-space: nowrap;">
           <li>Building AI systems using principles from psychology and cognitive science</li>
-          <li>Integrating statistical and symbolic methods into general AI systems</li>
-          <li>Grounding natural language generation in commonsense/domain knowledge</li>
+          <li>Self-supervised learning, semi-supervised learning</li>
+          <li>Integrating statistical and symbolic methods</li>
+          <li>Grounding language, vision, and behavior in commonsense/domain knowledge</li>
         </ul>
       </div>
     </div>
