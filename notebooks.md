@@ -17,6 +17,9 @@ permalink: /notebooks/
 ### [slippi.gg/tournament](https://slippi.gg/tournaments) Data
   * Data Scraping (Selenium, BS4) | [Colab](https://colab.research.google.com/drive/1Os4pK85UWkOmBO-7Mwq6cF9geWYEglSZ)
   * Offline Actor-Critic Training (PyTorch) | [Colab](https://colab.research.google.com/drive/1cOEV2DYb86r2oujalaSt-c68CpnzHRjZ)
+
+### Extracting Objects from YouTube Videos
+  * Data Download, DETR Object Detection, ResNet VAE Training | [Colab](https://github.com/josephcappadona/machine-learning-notebooks/blob/main/vision/%5BPyTorch%5D%20YouTube%20ResNetVAE.ipynb)
   
 ## Links to Notebook Repos  
   * PyTorch Implementations of CNN, GAN, GNN, AE, and more | [github/rasbt/deeplearning-models/pytorch_ipynb](https://github.com/rasbt/deeplearning-models/tree/master/pytorch_ipynb)
