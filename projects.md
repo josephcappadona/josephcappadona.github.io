@@ -12,7 +12,7 @@ Multimodal, aligned Encyclopedia data
 
   * Scraping (BS4) \| [GitHub](https://github.com/josephcappadona/kids_britannica/tree/dev/kids_britannica)
   * Usage \| [Colab](https://colab.research.google.com/drive/1r1xf4Xnk2Vej_l6GxiqFkxg89YFBqYQY)
-  * Using for [*Adversarial Decomposition of Text Representations*](https://arxiv.org/abs/1808.09042) \| [GitHub](https://github.com/josephcappadona/adversarial_decomposition)
+  * Applying to [*Adversarial Decomposition of Text Representations*](https://arxiv.org/abs/1808.09042) \| [GitHub](https://github.com/josephcappadona/adversarial_decomposition)
 
 <br>
   
@@ -93,4 +93,3 @@ iOS Application for ordering food from food trucks
 
 Track tweet sentiment for keywords in real time
 * Source Code \| [GitHub](https://github.com/ryin1/twitter-sentiment)
-
