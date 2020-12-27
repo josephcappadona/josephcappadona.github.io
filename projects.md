@@ -67,7 +67,7 @@ dependency parsing + word2vec + VADER sentiment analysis => opinion mining
 <br>
 
 #### **Information Extraction Using DBSCAN and Layout Analysis**
-OCR + DBSCAN + Feature Generation + ML Model => structured information extraction
+OCR + DBSCAN + Layout Analysis + ML Model => structured information extraction
   * Source Code \| [GitHub](https://github.com/josephcappadona/cis520-final-project/blob/master)
   * Technical Report \| [PDF](https://github.com/josephcappadona/cis520-final-project/blob/master/submission/final-paper.pdf)
 
