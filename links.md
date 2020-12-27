@@ -28,5 +28,5 @@ Blogs & Newsletters:
 
   
 Notebook Repositories:
-* PyTorch Implementations of CNN, GAN, GNN, AE, and more | [github/rasbt/deeplearning-models/pytorch_ipynb](https://github.com/rasbt/deeplearning-models/tree/master/pytorch_ipynb)
-* Machine Learning Art Colabs | [github/dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs)
+* PyTorch Implementations of CNN, GAN, GNN, AE, and more \| [github/rasbt/deeplearning-models/pytorch_ipynb](https://github.com/rasbt/deeplearning-models/tree/master/pytorch_ipynb)
+* Machine Learning Art Colabs \| [github/dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs)
