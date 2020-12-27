@@ -6,25 +6,25 @@ permalink: /projects/
 
 <br>
 
-#### **[kids.britannica.com](https://kids.britannica.com) Data (Python)**
+#### **[``kids.britannica.com``](https://kids.britannica.com) Data (Python)**
 
-Scrape multimodal, aligned Encyclopedia data
+Multimodal, aligned Encyclopedia data
 
-  * Data Scraping (BS4) \| [GitHub](https://github.com/josephcappadona/kids_britannica/tree/dev/kids_britannica)
-  * Data Usage \| [Colab](https://colab.research.google.com/drive/1r1xf4Xnk2Vej_l6GxiqFkxg89YFBqYQY)
-  * Using Data for [*Adversarial Decomposition of Text Representations*](https://arxiv.org/abs/1808.09042) \| [GitHub](https://github.com/josephcappadona/adversarial_decomposition)
+  * Scraping (BS4) \| [GitHub](https://github.com/josephcappadona/kids_britannica/tree/dev/kids_britannica)
+  * Usage \| [Colab](https://colab.research.google.com/drive/1r1xf4Xnk2Vej_l6GxiqFkxg89YFBqYQY)
+  * Using for [*Adversarial Decomposition of Text Representations*](https://arxiv.org/abs/1808.09042) \| [GitHub](https://github.com/josephcappadona/adversarial_decomposition)
 
 <br>
   
-#### **[j-archive.com](https://j-archive.com) Data (Python)**
+#### **[``j-archive.com``](https://j-archive.com) Data (Python)**
 
-Scrape Jeopardy data to create a QA dataset
-  * Data Scraping (BS4) \| [Colab](https://colab.research.google.com/drive/1Md2zFZivl3QgXmuUNMjIT2mDLgB158gY)
-  * Data Usage \| [Colab](https://colab.research.google.com/drive/1X99ypJ3E_6jrc76I5DnMKrjgkmezEGvv)
+Jeopardy data as a QA dataset
+  * Scraping (BS4) \| [Colab](https://colab.research.google.com/drive/1Md2zFZivl3QgXmuUNMjIT2mDLgB158gY)
+  * Usage \| [Colab](https://colab.research.google.com/drive/1X99ypJ3E_6jrc76I5DnMKrjgkmezEGvv)
 
 <br>
 
-#### **[slippi.gg/tournament](https://slippi.gg/tournaments) Data (Python)**
+#### **[``slippi.gg/tournament``](https://slippi.gg/tournaments) Data (Python)**
 
 Scrape SSBM tournament data to use as RL training data
   * Data Scraping (Selenium, BS4) \| [Colab](https://colab.research.google.com/drive/1Os4pK85UWkOmBO-7Mwq6cF9geWYEglSZ)
@@ -85,5 +85,4 @@ iOS Application for ordering food from food trucks
 
 Track tweet sentiment for keywords in real time
 * Source Code \| [GitHub](https://github.com/ryin1/twitter-sentiment)
-* Sample Output Graph \| [GDrive](https://drive.google.com/file/d/10jHCvpG1HVmzvRtU11aTGmyfQTjIiDZc)
 
