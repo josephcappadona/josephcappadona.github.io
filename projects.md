@@ -18,9 +18,9 @@ Multimodal, aligned Encyclopedia data
   
 #### **[``j-archive.com``](https://j-archive.com) Data (Python)**
 
-Jeopardy data as a QA dataset
+Jeopardy data as a QA dataset?
   * Scraping (BS4) \| [Colab](https://colab.research.google.com/drive/1Md2zFZivl3QgXmuUNMjIT2mDLgB158gY)
-  * Usage \| [Colab](https://colab.research.google.com/drive/1X99ypJ3E_6jrc76I5DnMKrjgkmezEGvv)
+  * How to Use \| [Colab](https://colab.research.google.com/drive/1X99ypJ3E_6jrc76I5DnMKrjgkmezEGvv)
 
 <br>
 
@@ -58,7 +58,7 @@ Command line application to download SSBM tournament VODs
 
 #### **Opinion Mining Amazon Reviews**
 
-Aggregating opinions over product features
+dependency parsing + word2vec + VADER sentiment analysis => opinion mining 
   * Source Code \| [GitHub](https://github.com/josephcappadona/opinion-mining-amazon-reviews)
   * Final Poster \| [GDrive](https://drive.google.com/file/d/1CqQFCXgYBRaFOQQS3yTzbhTql5uwcVkO/)
   * Interactive Demo \| [AWS](http://cis401-frontend.s3-website-us-east-1.amazonaws.com/)
