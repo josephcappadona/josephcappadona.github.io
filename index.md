@@ -21,6 +21,6 @@ layout: home
     </div>
   </div>
   <div style="margin: 10px;">
-    Below you'll find an assortment of short essays I've written as a way to organize and elucidate my thoughts on artificial intelligence. I hope they provide some insight into my ideas and motivations.
+    Below you'll find an assortment of short essays I've written as a way to organize and elucidate my thoughts on artificial intelligence. I hope they provide some insight into my ideas and motivations. I also encourage you to check out the <a href="/about">About</a>, <a href="/notebooks">Notebooks</a>, <a href="/ideas">Ideas</a>, and <a href="/external-links">External Links</a> pages to learn more about me, my skills, and my interests.
   </div>
 </div>
