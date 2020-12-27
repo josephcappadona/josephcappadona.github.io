@@ -76,7 +76,7 @@ OCR + DBSCAN + Layout Analysis + ML Model => structured information extraction
 #### **multitetris (Rust)**
 
 Multiplayer tetris using websockets and OpenGL
-  * Source Code \| [https://github.com/josephcappadona/multitetris]
+  * Source Code \| [GitHub](https://github.com/josephcappadona/multitetris)
   * Final Presentation \| [GDrive](https://docs.google.com/presentation/d/1XXDWQEsQC_ybpI_j3CtzlZwtevSpchEtIelRVSSNbDE)
 
 <br>
