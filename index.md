@@ -13,8 +13,10 @@ layout: home
         <p>Some of my research interests include:</p>
         <ul style="margin-bottom: 0px; white-space: nowrap;">
           <li>Self-supervised learning, semi-supervised learning</li>
-          <li>Integrating statistical and symbolic methods</li>
-          <li>Grounding language, vision, and behavior in commonsense/domain knowledge</li>
+          <li>Integrating statistical and symbolic AI methods</li>
+          <li>Building and utilizing commonsense/domain knowledge</li>
+          <li>Grounded language, vision, and behavior</li>
+          <li>Description logic, the Semantic Web</li>
         </ul>
       </div>
     </div>
