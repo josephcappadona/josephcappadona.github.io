@@ -16,7 +16,7 @@ layout: home
           <li>Integrating statistical and symbolic AI methods</li>
           <li>Building and utilizing commonsense/domain knowledge</li>
           <li>Grounded language, vision, and behavior</li>
-          <li>Description logic, the Semantic Web</li>
+          <li>Description logics, the Semantic Web</li>
         </ul>
       </div>
     </div>
