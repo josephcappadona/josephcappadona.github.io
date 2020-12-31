@@ -6,9 +6,9 @@ permalink: /projects/
 
 <br>
 
-#### **[``kids.britannica.com``](https://kids.britannica.com) Data (Python)**
+#### **Encyclopedia Britannica for Kids Data (Python)**
 
-Multimodal, aligned Encyclopedia data
+Multimodal, aligned encyclopedia data from [``kids.britannica.com``](https://kids.britannica.com)
 
   * Scraping (BS4) \| [GitHub](https://github.com/josephcappadona/kids_britannica/tree/dev/kids_britannica)
   * Usage \| [Colab](https://colab.research.google.com/drive/1r1xf4Xnk2Vej_l6GxiqFkxg89YFBqYQY)
@@ -16,17 +16,17 @@ Multimodal, aligned Encyclopedia data
 
 <br>
   
-#### **[``j-archive.com``](https://j-archive.com) Data (Python)**
+#### **Jeopardy Clue Data (Python)**
 
-Jeopardy data as a QA dataset?
+[``j-archive.com``](https://j-archive.com) clue data as a QA dataset?
   * Scraping (BS4) \| [Colab](https://colab.research.google.com/drive/1Md2zFZivl3QgXmuUNMjIT2mDLgB158gY)
   * How to Use \| [Colab](https://colab.research.google.com/drive/1X99ypJ3E_6jrc76I5DnMKrjgkmezEGvv)
 
 <br>
 
-#### **[``slippi.gg/tournament``](https://slippi.gg/tournaments) Data (Python)**
+#### **SSBM Tournament Data (Python)**
 
-Scrape SSBM tournament data to use as RL training data
+SSBM tournament data from [``slippi.gg/tournament``](https://slippi.gg/tournaments) as RL training data
   * Data Scraping (Selenium, BS4) \| [Colab](https://colab.research.google.com/drive/1Os4pK85UWkOmBO-7Mwq6cF9geWYEglSZ)
   * Offline Actor-Critic Training (PyTorch) \| [Colab](https://colab.research.google.com/drive/1cOEV2DYb86r2oujalaSt-c68CpnzHRjZ)
 
@@ -38,6 +38,13 @@ Extract objects (person, bottle, etc.) from YouTube videos and train ResNet VAEs
   * Data Download, DETR Object Detection, ResNet VAE Training \| [Colab](https://github.com/josephcappadona/machine-learning-notebooks/blob/main/vision/%5BPyTorch%5D%20YouTube%20ResNetVAE.ipynb)
 
 <br>
+
+#### **Poker Study Tools Website (JavaScript, Python)**
+
+Poker hand analysis tools website implemented with Flask, React, and D3
+  * Source Code & Screenshots \| [GitHub](https://github.com/josephcappadona/poker-tools)
+
+<br>
   
 #### **Sphero Droid Applications (Swift, Python)**
 
@@ -47,13 +54,6 @@ iOS application to connect to and control Sphero Droids
 Python wrapper to connect to and control Sphero Droids
   * Source Code \| [GitHub](https://github.com/josephcappadona/sphero-project)
   * R2D2 + A* \| [YouTube](https://www.youtube.com/watch?v=qjIhtkhbPT8)
-
-<br>
-
-#### **[``vods.co``](https://vods.co) Scraper**
-
-Command line application to download SSBM tournament VODs
-  * Source Code \| [GitHub](https://github.com/josephcappadona/vods-scraper)
 
 <br>
 
@@ -70,6 +70,13 @@ dependency parsing + word2vec + VADER sentiment analysis => opinion mining
 OCR + DBSCAN + Layout Analysis + ML Model => structured information extraction
   * Source Code \| [GitHub](https://github.com/josephcappadona/cis520-final-project/blob/master)
   * Technical Report \| [PDF](https://github.com/josephcappadona/cis520-final-project/blob/master/submission/final-paper.pdf)
+
+<br>
+
+#### **VODs Scraper**
+
+Command line application to download SSBM tournament VODs from [``vods.co``](https://vods.co)
+  * Source Code \| [GitHub](https://github.com/josephcappadona/vods-scraper)
 
 <br>
 
