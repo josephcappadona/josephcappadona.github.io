@@ -41,7 +41,7 @@ Extract objects (person, bottle, etc.) from YouTube videos and train ResNet VAEs
 
 #### **Poker Study Tools Website (JavaScript, Python)**
 
-Poker hand analysis tools website implemented with Flask, React, and D3
+Poker hand analysis tools implemented with Flask, React, and D3
   * Source Code & Screenshots \| [GitHub](https://github.com/josephcappadona/poker-tools)
 
 <br>
@@ -57,7 +57,7 @@ Python wrapper to connect to and control Sphero Droids
 
 <br>
 
-#### **Opinion Mining Amazon Reviews**
+#### **Opinion Mining Amazon Reviews (Python)**
 
 dependency parsing + word2vec + VADER sentiment analysis => opinion mining 
   * Source Code \| [GitHub](https://github.com/josephcappadona/opinion-mining-amazon-reviews)
@@ -66,14 +66,14 @@ dependency parsing + word2vec + VADER sentiment analysis => opinion mining
 
 <br>
 
-#### **Information Extraction Using DBSCAN and Layout Analysis**
+#### **Information Extraction Using DBSCAN and Layout Analysis (Python)**
 OCR + DBSCAN + Layout Analysis + ML Model => structured information extraction
   * Source Code \| [GitHub](https://github.com/josephcappadona/cis520-final-project/blob/master)
   * Technical Report \| [PDF](https://github.com/josephcappadona/cis520-final-project/blob/master/submission/final-paper.pdf)
 
 <br>
 
-#### **VODs Scraper**
+#### **VODs Scraper (Python)**
 
 Command line application to download SSBM tournament VODs from [``vods.co``](https://vods.co)
   * Source Code \| [GitHub](https://github.com/josephcappadona/vods-scraper)
