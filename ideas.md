@@ -4,8 +4,6 @@ title: Ideas
 permalink: /ideas/
 ---
 
-## Ideas
-
 These are some ideas I would like to work on if I had funding:
 
 * Automated Multimodal Knowledge Base Construction on Wikipedia, Wikidata, Wikimedia, Google Images, etc.
