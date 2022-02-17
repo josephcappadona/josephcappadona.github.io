@@ -10,7 +10,6 @@ The following are some of my favorite podcasts, channels, and hubs for content:
 Podcasts:
 * [Lex Fridman Podcast](https://lexfridman.com/podcast) (AI, STEM, Philosophy)
 * [Machine Learning Street Talk Podcast](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR) (ML)
-* [Mindscape](https://open.spotify.com/show/622lvLwp8CVu6dvCsYAJhN) (Physics, Philosophy)
 * [Philosophize This!](https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE) (Philosophy)
 
 
