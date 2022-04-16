@@ -8,7 +8,7 @@ layout: home
       <img src="/assets/img/headshot.jpeg" style="border-radius: 5px;" />
     </div>
     <div style="margin: auto 0 auto 10px;">
-      <p>Hello! My name is Joe and I'm an AI research engineer. You can find my resume <a href="https://drive.google.com/file/d/1Vx1LmhiX3gIuY0A5F-qn0ReCYMKQoYgu">here</a>.</p>
+      <p>Hello! My name is Joe and I'm an AI research engineer. You can find my resume <a href="https://drive.google.com/file/d/1mdNEjbVThyJFKN3hnXU7euDBBma2IAJO">here</a>.</p>
       <div>
         <p>I'm interested broadly in cognitive AI and how we might build general architectures by leveraging recent advances in deep learning. Some particular topics I'm interested in include:</p>
         <ul style="margin-bottom: 0px; white-space: nowrap;">
