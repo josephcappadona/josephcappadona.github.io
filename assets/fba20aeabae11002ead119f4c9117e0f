@@ -1,0 +1,44 @@
+{
+    "data": {
+        "darwin": {
+            "md5": "23637c089d11234bdf603ccda75d8438", 
+            "resource_id": 3656771724, 
+            "url": "https://proxy.sandbox.yandex-team.ru/3656872156", 
+            "urls": [
+                "https://storage.mds.yandex.net/get-devtools-opensource/250854/23637c089d11234bdf603ccda75d8438"
+            ]
+        }, 
+        "darwin-arm64": {
+            "md5": "3b918d6e2cb11569e438427ce03a1665", 
+            "resource_id": 3656763777, 
+            "url": "https://proxy.sandbox.yandex-team.ru/3656871903", 
+            "urls": [
+                "https://storage.mds.yandex.net/get-devtools-opensource/479623/3b918d6e2cb11569e438427ce03a1665"
+            ]
+        }, 
+        "linux": {
+            "md5": "e90cf530d88c9314b8bbd1845122484d", 
+            "resource_id": 3656769941, 
+            "url": "https://proxy.sandbox.yandex-team.ru/3656872554", 
+            "urls": [
+                "https://storage.mds.yandex.net/get-devtools-opensource/250854/e90cf530d88c9314b8bbd1845122484d"
+            ]
+        }, 
+        "linux-ppc64le": {
+            "md5": "51beb2e5258892832cfc562bd7cbfac4", 
+            "resource_id": 3656768389, 
+            "url": "https://proxy.sandbox.yandex-team.ru/3656871680", 
+            "urls": [
+                "https://storage.mds.yandex.net/get-devtools-opensource/479623/51beb2e5258892832cfc562bd7cbfac4"
+            ]
+        }, 
+        "win32": {
+            "md5": "ace564a0518704440a086a1a97c0bcc9", 
+            "resource_id": 3656869014, 
+            "url": "https://proxy.sandbox.yandex-team.ru/3656872382", 
+            "urls": [
+                "https://storage.mds.yandex.net/get-devtools-opensource/233854/ace564a0518704440a086a1a97c0bcc9"
+            ]
+        }
+    }
+}
