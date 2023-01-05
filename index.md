@@ -12,9 +12,8 @@ layout: home
       <div>
         <p>I'm interested broadly in cognitive AI and how we might build general architectures by leveraging recent advances in deep learning. Some particular topics I'm interested in include:</p>
         <ul style="margin-bottom: 0px; white-space: nowrap;">
-          <li>Self-supervised learning, curriculum learning, embodied agents</li>
-          <li>Improving and leveraging large models for a variety of </li>
-          <li>Utilizing commonsense and domain knowledge</li>
+          <li>Self-supervised learning</li>
+          <li>Improving and applying large multi-modal models</li>
           <li>Grounded language, vision, and behavior</li>
         </ul>
       </div>
