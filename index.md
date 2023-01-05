@@ -12,10 +12,10 @@ layout: home
       <div>
         <p>I'm interested broadly in cognitive AI and how we might build general architectures by leveraging recent advances in deep learning. Some particular topics I'm interested in include:</p>
         <ul style="margin-bottom: 0px; white-space: nowrap;">
-          <li><a href="https://arxiv.org/abs/2101.04882">Self-supervised learning</a>, <a href="https://arxiv.org/abs/2106.14876">curriculum learning</a>, <a href="https://arxiv.org/abs/2201.07207">embodied agents</a></li>
-          <li><a href="https://arxiv.org/abs/2201.08860">Improving</a> and <a href="https://arxiv.org/abs/2002.08155">leveraging</a> large models for a <a href="https://arxiv.org/abs/2107.04132">variety</a> of <a href="https://arxiv.org/abs/2107.07502">tasks</a></li>
-          <li>Utilizing <a href="https://arxiv.org/abs/2012.02757">commonsense</a> and <a href="https://academic.oup.com/bib/article-abstract/22/3/bbaa110/5854405">domain</a> knowledge</li>
-          <li>Grounded <a href="https://arxiv.org/abs/1811.06966">language</a>, <a href="https://arxiv.org/abs/2009.07783">vision</a>, and <a href="https://arxiv.org/abs/2002.05201">behavior</a></li>
+          <li>Self-supervised learning, curriculum learning, embodied agents</li>
+          <li>Improving and leveraging large models for a variety of </li>
+          <li>Utilizing commonsense and domain knowledge</li>
+          <li>Grounded language, vision, and behavior</li>
         </ul>
       </div>
     </div>
