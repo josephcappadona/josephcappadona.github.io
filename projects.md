@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software
-permalink: /projects/
+permalink: /software/
 ---
 
 <br>
