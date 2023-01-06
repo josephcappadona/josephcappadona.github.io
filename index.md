@@ -20,6 +20,6 @@ layout: home
     </div>
   </div>
   <div style="margin: 10px;">
-    I encourage you to check out my <a href="https://github.com/josephcappadona">GitHub</a> and the <a href="/about">About</a>, <a href="/projects">Projects</a>, <a href="/blog">Blog</a>, and <a href="/external-links">External Links</a> pages to learn more about me, my skills, and my interests. You can reach me by email at <a href="mailto:josephcappadona27@gmail.com">josephcappadona27@gmail.com</a>.
+    I encourage you to check out my <a href="https://github.com/josephcappadona">GitHub</a> and the <a href="/about">About</a>, <a href="/software">Software</a>, <a href="/papers">Papers</a>, and <a href="/external-links">External Links</a> pages to learn more about me, my skills, and my interests. You can reach me by email at <a href="mailto:josephcappadona27@gmail.com">josephcappadona27@gmail.com</a>.
   </div>
 </div>
