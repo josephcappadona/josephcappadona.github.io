@@ -16,8 +16,8 @@ minima:
 
 header_pages:
  - about.md
+ - papers.md
  - projects.md
- - blog.md
  - links.md
 
 theme: minima
