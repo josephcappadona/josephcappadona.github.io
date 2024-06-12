@@ -8,18 +8,8 @@ layout: home
       <img src="/assets/img/headshot.jpeg" style="border-radius: 5px;" />
     </div>
     <div style="margin: auto 0 auto 10px;">
-      <p>Hello! My name is Joe and I'm an AI research engineer. You can find my resume <a href="https://drive.google.com/file/d/1NceWd17jSGyRr7OzRA6sLejfd1IAzcqC">here</a>.</p>
-      <div>
-        <p>I'm interested broadly in cognitive AI and how we might build general architectures by leveraging recent advances in deep learning. Some particular topics I'm interested in include:</p>
-        <ul style="margin-bottom: 0px; white-space: nowrap;">
-          <li>Self-supervised learning</li>
-          <li>Improving and applying large multi-modal models</li>
-          <li>Grounded language, vision, and behavior</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-  <div style="margin: 10px;">
-    I encourage you to check out my <a href="https://github.com/josephcappadona">GitHub</a> and the <a href="/about">About</a>, <a href="/software">Software</a>, <a href="/papers">Papers</a>, and <a href="/external-links">External Links</a> pages to learn more about me, my skills, and my interests.
+      <p>Hello! My name is Joe and I'm a machine learning research engineer.</p>
+      <p>I recently completed my MS in Computer Science at NYU, specializing in machine learning. For my thesis, I worked with <a href="https://cs.nyu.edu/~kgeras/">Krzysztof Geras</a> on applying modern self-supervised learning techniques to 3D breast MRIs in order to build diagnostic and prognostic models for breast cancer.</p>
+      <p>This website is a work in progress, but I encourage you to check out my <a href="https://github.com/josephcappadona">GitHub</a>, where you will find many projects I've worked on which primarily revolve around machine learning and web scraping.</p>
   </div>
 </div>
