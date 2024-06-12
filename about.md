@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Outside of work, I love to play games of all varieties (card, board, video, etc.). I especially love to compete in [poker](https://pokerdb.thehendonmob.com/player.php?a=r&n=601783), [chess](https://lichess.org/@/seaghost27), and [Super Smash Bros Melee](https://smash.gg/user/34c64359) and have traveled around the country to enter competitions. Here are some pictures from my travels:
+Outside of work, I love to play games of all varieties (card, board, video, sport, etc.). I especially love to compete in [poker](https://pokerdb.thehendonmob.com/player.php?a=r&n=601783), [chess](https://lichess.org/@/seaghost27), and [Super Smash Bros Melee](https://smash.gg/user/34c64359) and have traveled around the country to enter competitions. Here are some pictures from my travels:
 
 <div>
   <div style="display: flex; font-size: 12px;">
@@ -36,5 +36,5 @@ Outside of work, I love to play games of all varieties (card, board, video, etc.
   </div>
 </div>
 
-I've contributed significantly to the [UPenn Smash Bros. Youtube channel](https://www.youtube.com/channel/UCphfCejF0ZuxSMZsUYNIxqQ), in particular with VODs from the [L@DU tournament series](https://smash.gg/tournament/look-at-dat-upsmash-underground-21/details). I enjoy hosting events and plan to continue to host events of all kinds (not just SSB related) in the future once the world returns to normalcy.
+I've contributed significantly to the [UPenn Smash Bros. Youtube channel](https://www.youtube.com/channel/UCphfCejF0ZuxSMZsUYNIxqQ), in particular with VODs from the [L@DU tournament series](https://smash.gg/tournament/look-at-dat-upsmash-underground-21/details) which I hosted during undergrad.
 
