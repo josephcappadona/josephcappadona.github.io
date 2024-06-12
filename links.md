@@ -4,14 +4,7 @@ title: External Links
 permalink: /external-links/
 ---
 
-The following are some of my favorite podcasts, channels, and hubs for content:
-
-
-Podcasts:
-* [Lex Fridman Podcast](https://lexfridman.com/podcast) (AI, STEM, Philosophy)
-* [Machine Learning Street Talk Podcast](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR) (ML)
-* [Philosophize This!](https://open.spotify.com/show/2Shpxw7dPoxRJCdfFXTWLE) (Philosophy)
-
+The following are some of my favorite content creators:
 
 YouTube:
 * [Lex Fridman](https://www.youtube.com/channel/UCSHZKyawb77ixDdsGog4iWA) (AI, STEM, Philosophy)
@@ -22,11 +15,4 @@ YouTube:
 
 Blogs & Newsletters:
 * [Gwern Branwen](https://gwern.net#ai) (AI)
-* [Jack Clark](https://jack-clark.net/) (AI)
-* [Hugging Face](https://huggingface.curated.co/) (ML)
-
-  
-Notebook Repositories:
-* PyTorch Implementations of CNN, GAN, GNN, AE, and more \| [github/rasbt/deeplearning-models/pytorch_ipynb](https://github.com/rasbt/deeplearning-models/tree/master/pytorch_ipynb)
-* Machine Learning Art Colabs \| [github/dvschultz/ml-art-colabs](https://github.com/dvschultz/ml-art-colabs)
-* Deep Learning Colabs \| [github/tugstugi/dl-colab-notebooks](https://github.com/tugstugi/dl-colab-notebooks)
+* [Sasha Chapin](https://sashachapin.substack.com/) (Life/Meditation)
