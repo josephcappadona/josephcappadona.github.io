@@ -7,6 +7,7 @@ permalink: /papers/
 The following are papers I've (co-)authored during my MS degree:
 
 <ul>
+  <li>Learning and Applying Self-Supervised Representations of 3D Breast MRIs</li>
   <li><a href="../assets/files/spatialQA.pdf">Language Models are Unreliable Spatial Reasoners</a></li>
   <li><a href="../assets/files/link-prediction.pdf">Link Prediction in Knowledge Graphs</a></li>
 </ul>
