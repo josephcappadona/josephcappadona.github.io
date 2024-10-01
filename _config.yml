@@ -12,7 +12,7 @@ minima:
   social_links:
     github:  josephcappadona
     twitter: joecappadona
-    instagram: jcappadona
+    # instagram: j.cappadona
 
 header_pages:
  - about.md
