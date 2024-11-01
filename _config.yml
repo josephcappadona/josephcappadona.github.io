@@ -15,7 +15,7 @@ minima:
     googlescholar: my0vOyQAAAAJ
     # instagram: j.cappadona
 
-# header_pages:
+header_pages: {}
  # - about.md
  # - papers.md
  # - software.md
