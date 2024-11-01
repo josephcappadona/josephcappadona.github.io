@@ -1,0 +1,26 @@
+title: Joe Cappadona
+author:
+  name: Joseph Cappadona
+  email: josephcappadona27@gmail.com
+description: 
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+minima:
+  skin: dark
+  date_format: "%b %-d, %Y"
+  social_links:
+    github:  josephcappadona
+    twitter: joecappadona
+    # instagram: j.cappadona
+
+header_pages:
+ - about.md
+ # - papers.md
+ # - software.md
+ # - links.md
+
+theme: minima
+plugins:
+ - jekyll-seo-tag
+ - jekyll-jupyter-notebook
