@@ -15,10 +15,10 @@ minima:
     googlescholar: my0vOyQAAAAJ
     # instagram: j.cappadona
 
-header_pages: {}
+header_pages:
+  - software.md
+  - papers.md
  # - about.md
- # - papers.md
- # - software.md
 
 theme: minima
 plugins:
