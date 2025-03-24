@@ -12,13 +12,13 @@ minima:
   social_links:
     github:  josephcappadona
     twitter: joecappadona
+    googlescholar: my0vOyQAAAAJ
     # instagram: j.cappadona
 
 header_pages:
- - about.md
- # - papers.md
- # - software.md
- # - links.md
+  - software.md
+  - papers.md
+ # - about.md
 
 theme: minima
 plugins:

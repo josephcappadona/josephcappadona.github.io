@@ -9,15 +9,10 @@ permalink: /software/
 #### **Encyclopedia Britannica for Kids Data (Python)**
 
 Multimodal, aligned encyclopedia data from [``kids.britannica.com``](https://kids.britannica.com)
-
   * Scraping (BS4) \| [GitHub](https://github.com/josephcappadona/kids_britannica/tree/dev/kids_britannica)
-  * Usage \| [Colab](https://colab.research.google.com/drive/1r1xf4Xnk2Vej_l6GxiqFkxg89YFBqYQY)
-  * Applying to [*Adversarial Decomposition of Text Representations*](https://arxiv.org/abs/1808.09042) \| [GitHub](https://github.com/josephcappadona/adversarial_decomposition)
-
 <br>
   
 #### **Jeopardy Clue Data (Python)**
-
 [``j-archive.com``](https://j-archive.com) clue data as a QA dataset?
   * Scraping (BS4) \| [Colab](https://colab.research.google.com/drive/1Md2zFZivl3QgXmuUNMjIT2mDLgB158gY)
   * How to Use \| [Colab](https://colab.research.google.com/drive/1X99ypJ3E_6jrc76I5DnMKrjgkmezEGvv)
@@ -62,8 +57,6 @@ Python wrapper to connect to and control Sphero Droids
 dependency parsing + word2vec + VADER sentiment analysis => opinion mining 
   * Source Code \| [GitHub](https://github.com/josephcappadona/opinion-mining-amazon-reviews)
   * Final Poster \| [GDrive](https://drive.google.com/file/d/1CqQFCXgYBRaFOQQS3yTzbhTql5uwcVkO/)
-  * Interactive Demo \| [AWS](http://cis401-frontend.s3-website-us-east-1.amazonaws.com/)
-
 <br>
 
 #### **Information Extraction Using DBSCAN and Layout Analysis (Python)**
